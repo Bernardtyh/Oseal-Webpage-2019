@@ -125,13 +125,13 @@ class Hestia_Footer extends Hestia_Abstract_Main {
 			'hestia_general_credits',
 			sprintf(
 				/* translators: %1$s is Theme Name, %2$s is WordPress */
-				esc_html__( '%1$s | Developed by %2$s', 'hestia' ),
-				esc_html__( 'Hestia', 'hestia' ),
+				esc_html__( '%1$s | Developed by %2$s', 'OSEAL LEO FORUM 2019' ),
+				esc_html__( 'OSEAL LEO FORUM 2019', 'OSEAL LEO FORUM 2019' ),
 				/* translators: %1$s is URL, %2$s is WordPress */
 				sprintf(
 					'<a href="%1$s" rel="nofollow">%2$s</a>',
-					esc_url( __( 'https://themeisle.com', 'hestia' ) ),
-					'ThemeIsle'
+					esc_url( __( '', 'BERNARD TANG' ) ),
+					'BERNARD TANG'
 				)
 			)
 		);
